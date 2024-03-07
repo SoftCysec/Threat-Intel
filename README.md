@@ -31,5 +31,5 @@ git clone https://github.com/SoftCysec/Threat-Intel.git
 
 3. Start the Docker containers
 ```shell
-docker-compose up --build
+docker-compose up -d
 ```
