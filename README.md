@@ -14,7 +14,8 @@ The repository includes the following microservices:
 - **Logging**: Store application logs
 - **Healthcheck**: Healthcheck service
 
-![TW_arch](https://github.com/SoftCysec/Threat-Intel/assets/44299200/e689299c-3dae-44fe-80cb-f5081dcc8503)
+![image](https://github.com/SoftCysec/Threat-Intel/assets/108905313/5cdd4c90-27dd-45fe-af0c-94d19946b5b7)
+
 
 
 ## Getting Started
