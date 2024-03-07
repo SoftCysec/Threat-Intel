@@ -14,7 +14,7 @@ The repository includes the following microservices:
 - **Logging**: Store application logs
 - **Healthcheck**: Healthcheck service
 
-![TW_arch](https://github.com/dev-lu/Threat-Intel/assets/44299200/e689299c-3dae-44fe-80cb-f5081dcc8503)
+![TW_arch](https://github.com/SoftCysec/Threat-Intel/assets/44299200/e689299c-3dae-44fe-80cb-f5081dcc8503)
 
 
 ## Getting Started
@@ -25,7 +25,7 @@ To try this project, follow the steps below.
 
 2. Clone the repository:
 ```shell
-git clone https://github.com/dev-lu/Threat-Intel.git
+git clone https://github.com/SoftCysec/Threat-Intel.git
 ```
 
 3. Start the Docker containers
