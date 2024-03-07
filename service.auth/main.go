@@ -114,7 +114,7 @@ func login(c *fiber.Ctx) error {
 	}
 
 	claims := jwt.MapClaims{
-		"iss":   "threatwatch-auth-service",
+		"iss":   "Threat-Intel-auth-service",
 		"sub":   creds["username"],
 		"email": creds["email"],
 		"role":  creds["role"],
